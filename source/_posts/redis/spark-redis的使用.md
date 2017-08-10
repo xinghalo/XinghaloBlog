@@ -1,6 +1,13 @@
 ---
 title: Spark Redis的使用
+tags: redis
+top: 0
 ---
+
+---
+利用Spark来读取Redis的缓存数据
+<!-- more -->
+
 
 # 添加pom引用
 
