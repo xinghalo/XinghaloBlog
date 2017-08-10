@@ -1,0 +1,10 @@
+.DS_Store
+.deploy_git/
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+themes/jsimple
+themes/landscape
